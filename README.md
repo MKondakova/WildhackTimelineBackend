@@ -1,7 +1,7 @@
 # Серверная часть для хакатона WildHack by Crock
 
 ## Фронт
-[android-приложение]('https://github.com/IDolgopolov/WildHack_WildBeears')
+[android-приложение](https://github.com/IDolgopolov/WildHack_WildBeears)
 
 ## Telegram bot
 Бот для переработки новостей в факты модератором. Есть удобные кнопки для навигации, вся информация отправляется на сервер
