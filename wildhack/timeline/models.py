@@ -7,7 +7,7 @@ class Tag(models.Model):
 class News(models.Model):
 	title = models.CharField(max_length=200)
 	source = models.URLField()
-	text = models.TextField()
+	date = models.CharField(max_length=20)
 	isProcessed = models.BooleanField(default=False)
 
 	
